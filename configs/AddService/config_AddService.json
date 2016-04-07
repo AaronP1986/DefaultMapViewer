@@ -1,0 +1,7 @@
+{
+  "cors": [
+    "https://gisservices.spatialni.gov.uk",
+    "http://mesonet.agron.iastate.edu",
+    "http://demo.boundlessgeo.com"
+  ]
+}
